@@ -1,1 +1,3 @@
 transition : none
+theme : black
+footnote : "© 2017 Rails Developers Meetup"
