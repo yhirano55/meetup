@@ -2,7 +2,7 @@
 
 # Rails Developers Meetup #3
 
-### 2017.07.20 @ Speee
+### 2017.07.20 @ <span style="text-transform: none;">Speee Lounge</span>
 
 | | |
 |-----:|:-----|
@@ -110,13 +110,13 @@
 
 ---?image=assets/sky.jpg&size=cover
 
-## Tokyo: Speee, Inc.
+## <span style="text-transform: none;">Tokyo: Speee, Inc.</span>
 
 ![](https://user-images.githubusercontent.com/15371677/28371978-74f8c016-6cd9-11e7-9661-da5c08605cd7.png)
 
 ---?image=assets/sky.jpg&size=cover
 
-## Osaka: Aiming Inc.
+## <span style="text-transform: none;">Osaka: Aiming Inc.</span>
 
 ![](https://user-images.githubusercontent.com/15371677/27144473-f8260a76-516c-11e7-9ff3-e745f4d24706.png)
 
@@ -128,7 +128,7 @@
 
 **KEYNOTE 01**: 19:35 〜 20:05
 
-## 新卒を一人前のRails<br>プログラマーにするための<br>『階段』の作り方
+## 新卒を一人前の<span style="text-transform: none;">Rails</span><br>プログラマーにするための<br>『階段』の作り方
 
 株式会社 永和システムマネジメント<br>シニアリーダー
 
@@ -154,9 +154,9 @@
 
 **KEYNOTE 03**: 20:45 〜 21:15
 
-## heroku review apps ライクな<br>Railsの確認環境<br>構築ツール開発
+## <span style="text-transform: none;">heroku review apps ライクな<br>Railsの確認環境<br>構築ツール開発</span>
 
-株式会社Speee<br>
+株式会社<span style="text-transform: none;">Speee</span><br>
 開発基盤部・ヌリカエ
 
 ### 森岡 周平さん
@@ -165,7 +165,7 @@
 
 **LT 01**: 21:15 〜 21:25
 
-## Railsを使って<br>最短1日でAMPに対応する
+## <span style="text-transform: none;">Railsを使って<br>最短1日でAMPに対応する</span>
 
 リードRailsエンジニア
 
@@ -175,11 +175,11 @@
 
 **LT 02**: 21:25 〜 21:35
 
-## 営業職の俺がRailsで<br>アプリケーションを作ってみた
+## <span style="text-transform: none;">営業職の俺がRailsで<br>アプリケーションを作ってみた</span>
 
 未経験エンジニア
 
-### @toyokappaさん
+### <span style="text-transform: none;">@toyokappaさん</span>
 
 ---?image=assets/next.jpg&size=cover
 
@@ -189,21 +189,21 @@
 
 ---?image=assets/twitter.jpg&size=cover
 
-# #railsdm
+# <span style="text-transform: none;">#railsdm</span>
 
 ---?image=assets/twitter.jpg&size=cover
 
-# #railsdm
+# <span style="text-transform: none;">#railsdm</span>
 
 ---?image=assets/twitter.jpg&size=cover
 
-# #railsdm
+# <span style="text-transform: none;">#railsdm</span>
 
 ---?image=assets/railsdm.jpg&size=cover
 
 ### アンケート回答お願いします
 
-## https://goo.gl/zi4eho
+## <span style="text-transform: none;">https://goo.gl/zi4eho</span>
 
 ---?image=assets/next.jpg&size=cover
 
@@ -221,13 +221,13 @@
 
 ---?image=assets/railsdm.jpg&size=cover
 
-# Dive into Rubygems
+# <span style="text-transform: none;">Dive into Rubygems</span>
 
 ---?image=assets/railsdm.jpg&size=cover
 
 ![](https://avatars3.githubusercontent.com/u/4361134?v=4&s=250)
 
-### pockeさん
+### <span style="text-transform: none;">pockeさん</span>
 
 - Software Engineer at Actcat Inc.
 - RuboCop contributor(100+ commits)
@@ -267,7 +267,7 @@
 ---?image=assets/railsdm.jpg&size=cover
 
 ## 2017.08.01 10:00
-## 次回から抽選です
+## 次回から抽選
 
 ---?image=assets/next.jpg&size=cover
 
@@ -275,31 +275,31 @@
 
 ---?image=assets/shinjukurb.jpg&size=cover
 
-## Shinjuku.rb #51
+## <span style="text-transform: none;">Shinjuku.rb #51</span>
 
 #### 2017.07.26 Wed 19:45-21:30
 
-#### 会場: Metaps Inc.
+#### <span style="text-transform: none;">会場: 株式会社メタップス</span>
 
 ### 夏のfrontend自由研究
 
 ---?image=assets/megurorb.jpg&size=cover
 
-## Meguro.rb #5
+## <span style="text-transform: none;">Meguro.rb #5</span>
 
 #### 2017.07.27 Thu 19:30-22:00
 
-#### 会場: Drecom Inc.
+#### <span style="text-transform: none;">会場: 株式会社ドリコム</span>
 
 ### 目黒界隈エンジニアのLTが聴ける
 
 ---?image=assets/step-to-rails-expert-bg.jpg&size=cover
 
-## Step-to-Rails-Expert.rb #9
+## <span style="text-transform: none;">Step-to-Rails-Expert.rb #9</span>
 
 #### 2017.07.31 Mon 19:30-21:00
 
-#### 会場: Speee Lounge
+#### <span style="text-transform: none;">会場: Speee Lounge</span>
 
 ### テーマ: レビュー・教育について
 
@@ -313,7 +313,7 @@
 
 ---?image=assets/railsdm.jpg&size=cover
 
-## RubyKaigi 2017
+## <span style="text-transform: none;">RubyKaigi 2017</span>
 
 #### 2017.09.18-09.20
 #### 会場: 広島国際会議場
@@ -324,4 +324,4 @@
 
 ### アンケート回答お願いします
 
-## https://goo.gl/zi4eho
+## <span style="text-transform: none;">https://goo.gl/zi4eho</span>
