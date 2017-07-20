@@ -1,8 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Pattaya');
+
 .reveal section img {
   border: 0;
   box-shadow: none;
 }
 
+.reveal, .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+  font-family: Lato, "游ゴシック Medium", "游ゴシック体", "Yu Gothic Medium", YuGothic, "ヒラギノ角ゴ ProN", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+
 .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
   text-transform: none;
+}
+
+span.brand {
+  font-family: 'Pattaya', sans-serif;
+  font-weight: normal;
 }
