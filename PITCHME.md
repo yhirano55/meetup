@@ -251,7 +251,7 @@ Framgia Inc.
 
 ![](https://avatars3.githubusercontent.com/u/4361134?v=4&s=250)
 
-### kami_zh（銭神 裕宜）さん
+### 銭神 裕宜(@kami_zh）さん
 
 - 株式会社万葉 技術開発部
 
@@ -269,7 +269,7 @@ Framgia Inc.
 
 ![](https://avatars3.githubusercontent.com/u/1148320?v=4&s=250)
 
-### zaru（桜庭 洋之）さん
+### 桜庭 洋之(@zaru)さん
 
 - 株式会社ベーシック CTO
 
