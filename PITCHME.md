@@ -245,17 +245,16 @@ Framgia Inc.
 
 ---?image=assets/railsdm.jpg&size=cover
 
-# Dive into Rubygems
+### Railsで日報共有アプリケーションを
+### OSSとして開発している話
 
 ---?image=assets/railsdm.jpg&size=cover
 
 ![](https://avatars3.githubusercontent.com/u/4361134?v=4&s=250)
 
-### pockeさん
+### kami_zh（銭神 裕宜）さん
 
-- Software Engineer at Actcat Inc.
-- RuboCop contributor(100+ commits)
-- Reek collaborator
+- 株式会社万葉 技術開発部
 
 ---?image=assets/railsdm.jpg&size=cover
 
@@ -263,18 +262,16 @@ Framgia Inc.
 
 ---?image=assets/railsdm.jpg&size=cover
 
-### プロを目指す
-### Railsエンジニアのための
-### 公開コードレビュー
+### パフォーマンス計測
+### CIサービスを作って得た知見
 
 ---?image=assets/railsdm.jpg&size=cover
 
 ![](https://avatars3.githubusercontent.com/u/1148320?v=4&s=250)
 
-### 伊藤 淳一さん
+### zaru（桜庭 洋之）さん
 
-- 株式会社ソニックガーデン プログラマ
-- Qiitaコントリビューションランク2位（2017年7月時点）
+- 株式会社ベーシック CTO
 
 ---?image=assets/railsdm.jpg&size=cover
 
@@ -290,7 +287,7 @@ Framgia Inc.
 
 ---?image=assets/railsdm.jpg&size=cover
 
-## 2017.08.01 10:00
+## 2017.09.05 10:00
 ## 抽選
 
 ---?image=assets/next.jpg&size=cover
@@ -299,33 +296,23 @@ Framgia Inc.
 
 ---?image=assets/shinjukurb.jpg&size=cover
 
-## Shinjuku.rb #51
+## Shinjuku.rb #52
 
-#### 2017.07.26 Wed 19:45-21:30
+#### 2017.08.23 Wed 19:45-21:30
 
 #### 会場: 株式会社メタップス
 
-### 夏のfrontend自由研究
-
----?image=assets/megurorb.jpg&size=cover
-
-## Meguro.rb #5
-
-#### 2017.07.27 Thu 19:30-22:00
-
-#### 会場: 株式会社ドリコム
-
-### 目黒界隈RubyistのLTが聴ける
+### RubyKaigi2017準備会
 
 ---?image=assets/step-to-rails-expert-bg.jpg&size=cover
 
-## Step-to-Rails-Expert.rb #9
+## Step-to-Rails-Expert.rb #10
 
-#### 2017.07.31 Mon 19:30-21:00
+#### 2017.08.28 Mon 19:30-21:00
 
 #### 会場: Speee Lounge
 
-### テーマ: レビュー・教育について
+### テーマ: 「TODOアプリレビューしあう回」のアプリを作る作業や質問をする回
 
 ---?image=assets/next.jpg&size=cover
 
@@ -348,7 +335,7 @@ Framgia Inc.
 
 ### アンケート回答お願いします
 
-## https://goo.gl/zi4eho
+## https://goo.gl/forms/gomwsxirquzQjG5R2
 
 ---?image=assets/railsdm.jpg&size=cover
 
