@@ -201,8 +201,8 @@ Supership株式会社<br>エンジニア
 
 **LT 05**: 21:25 〜 21:35
 
-## Automation test
-## in RoR project
+## Automation test in
+## RoR project
 
 Framgia Inc.
 
