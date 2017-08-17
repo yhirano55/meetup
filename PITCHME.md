@@ -314,16 +314,6 @@ Framgia Inc.
 
 ## お知らせ
 
----?image=assets/shinjukurb.jpg&size=cover
-
-## Shinjuku.rb #52
-
-#### 2017.08.23 Wed 19:45-21:30
-
-#### 会場: 株式会社メタップス
-
-### RubyKaigi2017準備会
-
 ---?image=assets/step-to-rails-expert-bg.jpg&size=cover
 
 ## Step-to-Rails-Expert.rb #10
