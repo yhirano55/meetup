@@ -226,7 +226,7 @@ Framgia Inc.
 
 ### アンケート回答お願いします
 
-## https://goo.gl/forms/gomwsxirquzQjG5R2
+## https://goo.gl/ZxXp2X
 
 ---?image=assets/next.jpg&size=cover
 
@@ -345,7 +345,7 @@ Framgia Inc.
 
 ### アンケート回答お願いします
 
-## https://goo.gl/forms/gomwsxirquzQjG5R2
+## https://goo.gl/ZxXp2X
 
 ---?image=assets/railsdm.jpg&size=cover
 
