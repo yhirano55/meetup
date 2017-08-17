@@ -288,6 +288,7 @@ Framgia Inc.
 ---?image=assets/railsdm.jpg&size=cover
 
 ## 2017.09.05 10:00
+## 先着
 
 ---?image=assets/next.jpg&size=cover
 
