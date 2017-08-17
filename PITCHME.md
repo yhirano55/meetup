@@ -167,7 +167,8 @@ PFMサービス開発本部<br>
 
 **LT 02**: 20:55 〜 21:05
 
-## Rubyistだった僕がRailsを使ってみて
+## Rubyistだった僕が
+## Railsを使ってみて
 
 株式会社マネーフォワード<br>
 Fintech事業推進本部<br>
@@ -179,7 +180,8 @@ Fintech事業推進部 エンジニア
 
 **LT 03**: 21:05 〜 21:15
 
-## Railsで新規サービスを開発する際にやったこと
+## Railsで新規サービスを
+## 開発する際にやったこと
 
 Supership株式会社<br>エンジニア
 
@@ -199,7 +201,8 @@ Supership株式会社<br>エンジニア
 
 **LT 05**: 21:25 〜 21:35
 
-## Automation test in RoR project
+## Automation test
+## in RoR project
 
 Framgia Inc.
 
@@ -245,8 +248,9 @@ Framgia Inc.
 
 ---?image=assets/railsdm.jpg&size=cover
 
-### Railsで日報共有アプリケーションを
-### OSSとして開発している話
+## Railsで
+## 日報共有アプリケーションを
+## OSSとして開発している話
 
 ---?image=assets/railsdm.jpg&size=cover
 
@@ -262,8 +266,9 @@ Framgia Inc.
 
 ---?image=assets/railsdm.jpg&size=cover
 
-### パフォーマンス計測
-### CIサービスを作って得た知見
+## パフォーマンス計測
+## CIサービスを
+## 作って得た知見
 
 ---?image=assets/railsdm.jpg&size=cover
 
@@ -288,7 +293,6 @@ Framgia Inc.
 ---?image=assets/railsdm.jpg&size=cover
 
 ## 2017.09.05 10:00
-## 抽選
 
 ---?image=assets/next.jpg&size=cover
 
