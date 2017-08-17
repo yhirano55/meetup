@@ -73,7 +73,7 @@
 
 ## Dive into Rubygems
 
-株式会社 アクトキャット
+株式会社アクトキャット
 
 ### Pocke さん
 
