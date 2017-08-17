@@ -158,7 +158,8 @@
 ## Bye, tachikoma gem
 
 株式会社マネーフォワード<br>
-PFMサービス開発本部 サービス開発部 エンジニア
+PFMサービス開発本部<br>
+サービス開発部 エンジニア
 
 ### 村橋 健一さん
 
@@ -169,7 +170,8 @@ PFMサービス開発本部 サービス開発部 エンジニア
 ## Rubyistだった僕がRailsを使ってみて
 
 株式会社マネーフォワード<br>
-Fintech事業推進本部 Fintech事業推進部 エンジニア
+Fintech事業推進本部<br>
+Fintech事業推進部 エンジニア
 
 ### 澤田 剛さん
 
@@ -183,7 +185,7 @@ Supership株式会社<br>エンジニア
 
 ### 栗山 隼一(@astapi)さん
 
----?image=assets/next.jpg&size=cover
+---?image=assets/railsdm.jpg&size=cover
 
 **LT 04**: 21:15 〜 21:25
 
@@ -193,7 +195,7 @@ Supership株式会社<br>エンジニア
 
 ### 麦島 一さん
 
----?image=assets/next.jpg&size=cover
+---?image=assets/railsdm.jpg&size=cover
 
 **LT 05**: 21:25 〜 21:35
 
