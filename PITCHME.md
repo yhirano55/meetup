@@ -140,6 +140,7 @@
 
 ### 伊藤 淳一さん
 
+
 ---?image=assets/sky.jpg&size=cover
 
 **BREAK**: 20:35 〜 20:45
@@ -272,6 +273,25 @@ Framgia Inc.
 ### 桜庭 洋之(@zaru)さん
 
 - 株式会社ベーシック CTO
+
+---?image=assets/railsdm.jpg&size=cover
+
+# KEYNOTE 03
+
+---?image=assets/railsdm.jpg&size=cover
+
+## マイクロサービスにおける
+## 非同期アーキテクチャ
+## パフォーマンス計測
+
+---?image=assets/railsdm.jpg&size=cover
+
+![](https://avatars3.githubusercontent.com/u/1148320?v=4&s=250)
+
+### 太田佳敬さん
+
+- 株式会社FiNC 技術開発本部
+- Web Application Developer
 
 ---?image=assets/railsdm.jpg&size=cover
 
