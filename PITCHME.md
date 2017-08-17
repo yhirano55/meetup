@@ -23,59 +23,6 @@
 # 考え方やテクニック
 # を得る非営利勉強会
 
----?image=assets/policy.jpg&size=cover
-
-# <span class="brand">Policy</span>
-
----?image=assets/railsdm.jpg&size=cover
-
-# 所属企業と地域の
-# 枠を超えた
-# 技術コミュニティ
-
----?image=assets/railsdm.jpg&size=cover
-
-# 日頃お世話に
-# なっている
-# OSSへの恩返し
-
----?image=assets/railsdm.jpg&size=cover
-
-# 特定の企業の利益を
-# 優先しません
-
----?image=assets/railsdm.jpg&size=cover
-
-# 何のコネもない
-# 開発者様・企業様へ
-
----?image=assets/railsdm.jpg&size=cover
-
-# 唐突に登壇
-# 依頼をする
-# 無謀な運営方針
-
----?image=assets/railsdm.jpg&size=cover
-
-# 登壇者が見つから
-# なくなったら
-# その時点で...
-
----?image=assets/railsdm.jpg&size=cover
-
-# 即終了
-
----?image=assets/railsdm.jpg&size=cover
-
-# 参加者が来て
-# よかったと思えて
-
----?image=assets/railsdm.jpg&size=cover
-
-# 運営者も
-# 参加したくなる
-# 勉強会を目指します
-
 ---?image=assets/caution.jpg&size=cover
 
 # 注意事項
