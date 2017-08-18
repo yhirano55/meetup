@@ -1,13 +1,8 @@
 ---?image=assets/railsdm.jpg&size=cover
 
-# <span class="brand">Rails Developers Meetup #3</span>
+# <span class="brand">Rails Developers Meetup #4</span>
 
-### 2017.07.20 @ Speee Lounge
-
-| | |
-|-----:|:-----|
-| SSID | speee_guest_wifi |
-| PASSWORD | speee_guest_4055 |
+### 2017.08.24 @ Money Forward
 
 ---?image=assets/concept.jpg&size=cover
 
@@ -27,59 +22,6 @@
 # 現場で活かせる
 # 考え方やテクニック
 # を得る非営利勉強会
-
----?image=assets/policy.jpg&size=cover
-
-# <span class="brand">Policy</span>
-
----?image=assets/railsdm.jpg&size=cover
-
-# 所属企業と地域の
-# 枠を超えた
-# 技術コミュニティ
-
----?image=assets/railsdm.jpg&size=cover
-
-# 日頃お世話に
-# なっている
-# OSSへの恩返し
-
----?image=assets/railsdm.jpg&size=cover
-
-# 特定の企業の利益を
-# 優先しません
-
----?image=assets/railsdm.jpg&size=cover
-
-# 何のコネもない
-# 開発者様・企業様へ
-
----?image=assets/railsdm.jpg&size=cover
-
-# 唐突に登壇
-# 依頼をする
-# 無謀な運営方針
-
----?image=assets/railsdm.jpg&size=cover
-
-# 登壇者が見つから
-# なくなったら
-# その時点で...
-
----?image=assets/railsdm.jpg&size=cover
-
-# 即終了
-
----?image=assets/railsdm.jpg&size=cover
-
-# 参加者が来て
-# よかったと思えて
-
----?image=assets/railsdm.jpg&size=cover
-
-# 運営者も
-# 参加したくなる
-# 勉強会を目指します
 
 ---?image=assets/caution.jpg&size=cover
 
@@ -111,9 +53,9 @@
 
 ---?image=assets/sky.jpg&size=cover
 
-## Tokyo: Speee, Inc.
+## Tokyo: Money Forward, Inc.
 
-![](https://user-images.githubusercontent.com/15371677/28371978-74f8c016-6cd9-11e7-9661-da5c08605cd7.png)
+![](https://user-images.githubusercontent.com/1458041/28827331-34d9d3ec-7708-11e7-8dcb-2fa37bf670b2.png)
 
 ---?image=assets/sky.jpg&size=cover
 
@@ -129,21 +71,22 @@
 
 **KEYNOTE 01**: 19:35 〜 20:05
 
-## 新卒を一人前のRails<br>プログラマーにするための<br>『階段』の作り方
+## Dive into Rubygems
 
-株式会社 永和システムマネジメント<br>シニアリーダー
+株式会社アクトキャット
 
-### 伊藤 浩一さん
+### Pocke さん
 
 ---?image=assets/railsdm.jpg&size=cover
 
 **KEYNOTE 02**: 20:05 〜 20:35
 
-## 個人開発のやっていき方
+## プロを目指す<br>Railsエンジニアのための<br>公開コードレビュー
 
-フリーランス
+株式会社ソニックガーデン<br>プログラマ
 
-### 中村 涼さん
+### 伊藤 淳一さん
+
 
 ---?image=assets/sky.jpg&size=cover
 
@@ -153,34 +96,60 @@
 
 ---?image=assets/railsdm.jpg&size=cover
 
-**KEYNOTE 03**: 20:45 〜 21:15
+**LT 01**: 20:45 〜 20:55
 
-## heroku review apps ライクな<br>Railsの確認環境<br>構築ツール開発
+## Bye, tachikoma gem
 
-株式会社Speee<br>
-開発基盤部・ヌリカエ
+株式会社マネーフォワード<br>
+PFMサービス開発本部<br>
+サービス開発部 エンジニア
 
-### 森岡 周平さん
-
----?image=assets/railsdm.jpg&size=cover
-
-**LT 01**: 21:15 〜 21:25
-
-## Railsを使って<br>最短1日でAMPに対応する
-
-リードRailsエンジニア
-
-### 奥原 拓也さん
+### 村橋 健一さん
 
 ---?image=assets/railsdm.jpg&size=cover
 
-**LT 02**: 21:25 〜 21:35
+**LT 02**: 20:55 〜 21:05
 
-## 営業職の俺がRailsで<br>アプリケーションを作ってみた
+## Rubyistだった僕が
+## Railsを使ってみて
 
-未経験エンジニア
+株式会社マネーフォワード<br>
+Fintech事業推進本部<br>
+Fintech事業推進部 エンジニア
 
-### @toyokappaさん
+### 澤田 剛さん
+
+---?image=assets/railsdm.jpg&size=cover
+
+**LT 03**: 21:05 〜 21:15
+
+## Railsで新規サービスを
+## 開発する際にやったこと
+
+Supership株式会社<br>エンジニア
+
+### 栗山 隼一(@astapi)さん
+
+---?image=assets/railsdm.jpg&size=cover
+
+**LT 04**: 21:15 〜 21:25
+
+## Webpacker is installed
+
+株式会社Misoca<br>プログラマー
+
+### 麦島 一さん
+
+---?image=assets/railsdm.jpg&size=cover
+
+**LT 05**: 21:25 〜 21:35
+
+## Automation test in
+## RoR project
+
+Framgia Inc.
+
+### Le Dinh Vu（レ・ディン・ヴー）さん
 
 ---?image=assets/next.jpg&size=cover
 
@@ -204,7 +173,7 @@
 
 ### アンケート回答お願いします
 
-## https://goo.gl/zi4eho
+## https://goo.gl/ZxXp2X
 
 ---?image=assets/next.jpg&size=cover
 
@@ -212,9 +181,9 @@
 
 ---?image=assets/railsdm.jpg&size=cover
 
-# <span class="brand">Rails Developers Meetup #4</span>
+# <span class="brand">Rails Developers Meetup #5</span>
 
-### 2017.08.24
+### 2017.09.28
 
 ---?image=assets/railsdm.jpg&size=cover
 
@@ -222,17 +191,17 @@
 
 ---?image=assets/railsdm.jpg&size=cover
 
-# Dive into Rubygems
+## Railsで
+## 日報共有アプリケーションを
+## OSSとして開発している話
 
 ---?image=assets/railsdm.jpg&size=cover
 
 ![](https://avatars3.githubusercontent.com/u/4361134?v=4&s=250)
 
-### pockeさん
+### 銭神 裕宜(@kami_zh）さん
 
-- Software Engineer at Actcat Inc.
-- RuboCop contributor(100+ commits)
-- Reek collaborator
+- 株式会社万葉 技術開発部
 
 ---?image=assets/railsdm.jpg&size=cover
 
@@ -240,18 +209,36 @@
 
 ---?image=assets/railsdm.jpg&size=cover
 
-### プロを目指す
-### Railsエンジニアのための
-### 公開コードレビュー
+## パフォーマンス計測
+## CIサービスを
+## 作って得た知見
 
 ---?image=assets/railsdm.jpg&size=cover
 
 ![](https://avatars3.githubusercontent.com/u/1148320?v=4&s=250)
 
-### 伊藤 淳一さん
+### 桜庭 洋之(@zaru)さん
 
-- 株式会社ソニックガーデン プログラマ
-- Qiitaコントリビューションランク2位（2017年7月時点）
+- 株式会社ベーシック CTO
+
+---?image=assets/railsdm.jpg&size=cover
+
+# KEYNOTE 03
+
+---?image=assets/railsdm.jpg&size=cover
+
+## マイクロサービスにおける
+## 非同期アーキテクチャ
+## パフォーマンス計測
+
+---?image=assets/railsdm.jpg&size=cover
+
+![](https://avatars3.githubusercontent.com/u/1148320?v=4&s=250)
+
+### 太田佳敬さん
+
+- 株式会社FiNC 技術開発本部
+- Web Application Developer
 
 ---?image=assets/railsdm.jpg&size=cover
 
@@ -267,42 +254,22 @@
 
 ---?image=assets/railsdm.jpg&size=cover
 
-## 2017.08.01 10:00
-## 抽選
+## 2017.09.05 10:00
+## 先着
 
 ---?image=assets/next.jpg&size=cover
 
 ## お知らせ
 
----?image=assets/shinjukurb.jpg&size=cover
-
-## Shinjuku.rb #51
-
-#### 2017.07.26 Wed 19:45-21:30
-
-#### 会場: 株式会社メタップス
-
-### 夏のfrontend自由研究
-
----?image=assets/megurorb.jpg&size=cover
-
-## Meguro.rb #5
-
-#### 2017.07.27 Thu 19:30-22:00
-
-#### 会場: 株式会社ドリコム
-
-### 目黒界隈RubyistのLTが聴ける
-
 ---?image=assets/step-to-rails-expert-bg.jpg&size=cover
 
-## Step-to-Rails-Expert.rb #9
+## Step-to-Rails-Expert.rb #10
 
-#### 2017.07.31 Mon 19:30-21:00
+#### 2017.08.28 Mon 19:30-21:00
 
 #### 会場: Speee Lounge
 
-### テーマ: レビュー・教育について
+### テーマ: 「TODOアプリレビューしあう回」のアプリを作る作業や質問をする回
 
 ---?image=assets/next.jpg&size=cover
 
@@ -325,7 +292,7 @@
 
 ### アンケート回答お願いします
 
-## https://goo.gl/zi4eho
+## https://goo.gl/ZxXp2X
 
 ---?image=assets/railsdm.jpg&size=cover
 
