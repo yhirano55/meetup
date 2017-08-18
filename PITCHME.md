@@ -87,7 +87,6 @@
 
 ### 伊藤 淳一さん
 
-
 ---?image=assets/sky.jpg&size=cover
 
 **BREAK**: 20:35 〜 20:45
@@ -128,7 +127,7 @@ Fintech事業推進部 エンジニア
 
 Supership株式会社<br>エンジニア
 
-### 栗山 隼一(@astapi)さん
+### 栗山 隼一さん
 
 ---?image=assets/railsdm.jpg&size=cover
 
@@ -197,11 +196,12 @@ Framgia Inc.
 
 ---?image=assets/railsdm.jpg&size=cover
 
-![](https://avatars3.githubusercontent.com/u/4361134?v=4&s=250)
+![](https://avatars2.githubusercontent.com/u/4456532?v=4&s=250)
 
-### 銭神 裕宜(@kami_zh）さん
+### 銭神 裕宜さん
 
 - 株式会社万葉 技術開発部
+- 日報共有アプリ Repostの作者
 
 ---?image=assets/railsdm.jpg&size=cover
 
@@ -215,11 +215,13 @@ Framgia Inc.
 
 ---?image=assets/railsdm.jpg&size=cover
 
-![](https://avatars3.githubusercontent.com/u/1148320?v=4&s=250)
+![](https://avatars2.githubusercontent.com/u/235650?v=4&s=250)
 
-### 桜庭 洋之(@zaru)さん
+### 桜庭 洋之さん
 
 - 株式会社ベーシック CTO
+- Pushnate(Webpushサービス)の開発運営
+- webpush gemの作者
 
 ---?image=assets/railsdm.jpg&size=cover
 
@@ -233,9 +235,9 @@ Framgia Inc.
 
 ---?image=assets/railsdm.jpg&size=cover
 
-![](https://avatars3.githubusercontent.com/u/1148320?v=4&s=250)
+![](https://avatars1.githubusercontent.com/u/6755375?v=4&s=250)
 
-### 太田佳敬さん
+### 太田 佳敬さん
 
 - 株式会社FiNC 技術開発本部
 - Web Application Developer
@@ -244,9 +246,9 @@ Framgia Inc.
 
 # 会場
 
----?image=assets/orange.jpg&size=cover
+---?image=assets/white.jpg&size=cover
 
-![](https://user-images.githubusercontent.com/15371677/28373757-113fe2e8-6cde-11e7-878e-401d1ffa3ec5.png)
+![](https://user-images.githubusercontent.com/15371677/29452782-8316b34e-8442-11e7-84c0-493bfd07fa74.png)
 
 ---?image=assets/railsdm.jpg&size=cover
 
@@ -256,6 +258,7 @@ Framgia Inc.
 
 ## 2017.09.05 10:00
 ## 先着
+## 次回からTECH PLAYで募集
 
 ---?image=assets/next.jpg&size=cover
 
@@ -277,16 +280,33 @@ Framgia Inc.
 
 ---?image=assets/railsdm.jpg&size=cover
 
-![](https://user-images.githubusercontent.com/15371677/28376314-cafbb0c6-6ce4-11e7-90ac-af3df7b65302.png)
+# <span class="brand">Rails Developers Meetup 2017</span>
+
+### 2017.12.09
 
 ---?image=assets/railsdm.jpg&size=cover
 
-## RubyKaigi 2017
+# 2017年最後の
+# 超拡大版
 
-#### 2017.09.18-09.20
-#### 会場: 広島国際会議場
+---?image=assets/railsdm.jpg&size=cover
 
-### みなさんチケット買いましょう
+# 13:00-18:10
+# 土曜日開催
+
+---?image=assets/railsdm.jpg&size=cover
+
+## Guest Talk (25min) * 8本
+## Lightning Talk (5min) * 12本
+
+---?image=assets/railsdm.jpg&size=cover
+
+# 会場
+
+---?image=assets/railsdm.jpg&size=cover
+
+## TECH PLAY SHIBUYA
+# 定員150名 (無料)
 
 ---?image=assets/railsdm.jpg&size=cover
 
