@@ -4,6 +4,11 @@
 
 ### 2017.08.24 @ Money Forward
 
+| | |
+|--:|:--|
+| SSID | guest-mfw01 |
+| PASS | chocoball |
+
 ---?image=assets/concept.jpg&size=cover
 
 # <span class="brand">Concept</span>
