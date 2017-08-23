@@ -256,7 +256,7 @@ Framgia Inc.
 
 ---?image=assets/railsdm.jpg&size=cover
 
-## 2017.09.05 10:00
+## 2017.09.04 10:00
 ## 先着
 ## 次回からTECH PLAYで募集
 
@@ -306,7 +306,12 @@ Framgia Inc.
 ---?image=assets/railsdm.jpg&size=cover
 
 ## TECH PLAY SHIBUYA
-# 定員150名 (無料)
+# 定員170名 (無料)
+
+---?image=assets/railsdm.jpg&size=cover
+
+## 9月中下旬〜
+## 募集開始予定
 
 ---?image=assets/railsdm.jpg&size=cover
 
