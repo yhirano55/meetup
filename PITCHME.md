@@ -6,8 +6,8 @@
 
 | | |
 |--:|:--|
-| SSID | guest-mfw01 |
-| PASS | chocoball |
+| SSID | --- |
+| PASS | --- |
 
 ---?image=assets/concept.jpg&size=cover
 
