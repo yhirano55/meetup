@@ -1,8 +1,8 @@
 ---?image=assets/railsdm.jpg&size=cover
 
-# <span class="brand">Rails Developers Meetup #4</span>
+# <span class="brand">Rails Developers Meetup #5</span>
 
-### 2017.08.24 @ Money Forward
+### 2017.09.28 @ FiNC
 
 | | |
 |--:|:--|
@@ -58,9 +58,9 @@
 
 ---?image=assets/sky.jpg&size=cover
 
-## Tokyo: Money Forward, Inc.
+## Tokyo: FiNC inc.
 
-![](https://user-images.githubusercontent.com/1458041/28827331-34d9d3ec-7708-11e7-8dcb-2fa37bf670b2.png)
+![](https://user-images.githubusercontent.com/15371677/30786132-434bf0c6-a1ac-11e7-8db2-31cb786208e8.png)
 
 ---?image=assets/sky.jpg&size=cover
 
@@ -76,21 +76,25 @@
 
 **KEYNOTE 01**: 19:35 〜 20:05
 
-## Dive into Rubygems
+## Railsで日報共有
+## アプリケーションを
+## OSSとして開発している話
 
-株式会社アクトキャット
+株式会社万葉
 
-### Pocke さん
+### 銭神 裕宜さん
 
 ---?image=assets/railsdm.jpg&size=cover
 
 **KEYNOTE 02**: 20:05 〜 20:35
 
-## プロを目指す<br>Railsエンジニアのための<br>公開コードレビュー
+## パフォーマンス計測
+## CIサービスを
+## 作って得た知見
 
-株式会社ソニックガーデン<br>プログラマ
+株式会社ベーシック
 
-### 伊藤 淳一さん
+### 桜庭 洋之さん
 
 ---?image=assets/sky.jpg&size=cover
 
@@ -100,60 +104,38 @@
 
 ---?image=assets/railsdm.jpg&size=cover
 
-**LT 01**: 20:45 〜 20:55
+**KEYNOTE 03**: 20:45 〜 21:15
 
-## Bye, tachikoma gem
+## マイクロサービスにおける
+## 非同期アーキテクチャ
 
-株式会社マネーフォワード<br>
-PFMサービス開発本部<br>
-サービス開発部 エンジニア
+株式会社FiNC
 
-### 村橋 健一さん
-
----?image=assets/railsdm.jpg&size=cover
-
-**LT 02**: 20:55 〜 21:05
-
-## Rubyistだった僕が
-## Railsを使ってみて
-
-株式会社マネーフォワード<br>
-Fintech事業推進本部<br>
-Fintech事業推進部 エンジニア
-
-### 澤田 剛さん
+### 太田 佳敬 さん
 
 ---?image=assets/railsdm.jpg&size=cover
 
-**LT 03**: 21:05 〜 21:15
+**LT 01**: 21:15 〜 21:25
 
-## Railsで新規サービスを
-## 開発する際にやったこと
+## 5000兆人欲しい！
+## 優秀なRailsエンジニアを
+## 採用するための
+## 3つ(仮)の方法
 
-Supership株式会社<br>エンジニア
+株式会社FiNC
 
-### 栗山 隼一さん
-
----?image=assets/railsdm.jpg&size=cover
-
-**LT 04**: 21:15 〜 21:25
-
-## Webpacker is installed
-
-株式会社Misoca<br>プログラマー
-
-### 麦島 一さん
+### 森 久太郎さん
 
 ---?image=assets/railsdm.jpg&size=cover
 
-**LT 05**: 21:25 〜 21:35
+**LT 02**: 21:25 〜 21:35
 
-## Automation test in
-## RoR project
+## Railsを6年間やってきたぼくが
+## 最近Railsでハマったこと
 
-Framgia Inc.
+株式会社カカクコム
 
-### Le Dinh Vu（レ・ディン・ヴー）さん
+### 鈴木 和真さん
 
 ---?image=assets/next.jpg&size=cover
 
@@ -177,7 +159,7 @@ Framgia Inc.
 
 ### アンケート回答お願いします
 
-## https://goo.gl/ZxXp2X
+## https://goo.gl/UL2sTB
 
 ---?image=assets/next.jpg&size=cover
 
@@ -185,9 +167,9 @@ Framgia Inc.
 
 ---?image=assets/railsdm.jpg&size=cover
 
-# <span class="brand">Rails Developers Meetup #5</span>
+# <span class="brand">Rails Developers Meetup #6</span>
 
-### 2017.09.28
+### 2017.10.19
 
 ---?image=assets/railsdm.jpg&size=cover
 
@@ -195,18 +177,16 @@ Framgia Inc.
 
 ---?image=assets/railsdm.jpg&size=cover
 
-## Railsで
-## 日報共有アプリケーションを
-## OSSとして開発している話
+## Railsエンジニアの交換型
+## インターンシップについて
 
 ---?image=assets/railsdm.jpg&size=cover
 
-![](https://avatars2.githubusercontent.com/u/4456532?v=4&s=250)
+![](https://avatars2.githubusercontent.com/u/16577?v=4&s=250)
 
-### 銭神 裕宜さん
+### 駒形 真幸 さん
 
-- 株式会社万葉 技術開発部
-- 日報共有アプリ Repostの作者
+- 合同会社フィヨルド エンジニア
 
 ---?image=assets/railsdm.jpg&size=cover
 
@@ -214,19 +194,17 @@ Framgia Inc.
 
 ---?image=assets/railsdm.jpg&size=cover
 
-## パフォーマンス計測
-## CIサービスを
-## 作って得た知見
+## Railsコントリビューション
 
 ---?image=assets/railsdm.jpg&size=cover
 
-![](https://avatars2.githubusercontent.com/u/235650?v=4&s=250)
+![](https://avatars1.githubusercontent.com/u/987638?v=4&s=250)
 
-### 桜庭 洋之さん
+### y-yagiさん
 
-- 株式会社ベーシック CTO
-- Pushnate(Webpushサービス)の開発運営
-- webpush gemの作者
+- Ginza.rbの主催の一人
+- 『なるようになるブログ』のなかの人
+- Rails Contributors #26
 
 ---?image=assets/railsdm.jpg&size=cover
 
@@ -234,18 +212,17 @@ Framgia Inc.
 
 ---?image=assets/railsdm.jpg&size=cover
 
-## マイクロサービスにおける
-## 非同期アーキテクチャ
-## パフォーマンス計測
+## Railsでつくる
+## ファイルアップロード 2017
 
 ---?image=assets/railsdm.jpg&size=cover
 
-![](https://avatars1.githubusercontent.com/u/6755375?v=4&s=250)
+![](https://avatars2.githubusercontent.com/u/787669?v=4&s=250)
 
-### 太田 佳敬さん
+### 松久 浩伸さん
 
-- 株式会社FiNC 技術開発本部
-- Web Application Developer
+- 株式会社みんなのウェディング
+- ウェブエンジニア
 
 ---?image=assets/railsdm.jpg&size=cover
 
@@ -253,7 +230,7 @@ Framgia Inc.
 
 ---?image=assets/white.jpg&size=cover
 
-![](https://user-images.githubusercontent.com/15371677/29452782-8316b34e-8442-11e7-84c0-493bfd07fa74.png)
+![](https://www.mwed.jp/g/i/lgbt/pc/logo_mwed.png?20151013)
 
 ---?image=assets/railsdm.jpg&size=cover
 
@@ -261,23 +238,7 @@ Framgia Inc.
 
 ---?image=assets/railsdm.jpg&size=cover
 
-## 2017.09.04 10:00
-## 先着
-## 次回からTECH PLAYで募集
-
----?image=assets/next.jpg&size=cover
-
-## お知らせ
-
----?image=assets/step-to-rails-expert-bg.jpg&size=cover
-
-## Step-to-Rails-Expert.rb #10
-
-#### 2017.08.28 Mon 19:30-21:00
-
-#### 会場: Speee Lounge
-
-### テーマ: 「TODOアプリレビューしあう回」のアプリを作る作業や質問をする回
+## 2017.10.02 10:00
 
 ---?image=assets/next.jpg&size=cover
 
@@ -315,14 +276,78 @@ Framgia Inc.
 
 ---?image=assets/railsdm.jpg&size=cover
 
-## 9月中下旬〜
-## 募集開始予定
+# ゲスト登壇者
+# 8名紹介
 
 ---?image=assets/railsdm.jpg&size=cover
 
-### アンケート回答お願いします
+![](https://avatars0.githubusercontent.com/u/82371?v=4&s=250)
 
-## https://goo.gl/ZxXp2X
+### 前島 真一さん
+
+フリーランス Rails技術顧問
+
+---?image=assets/railsdm.jpg&size=cover
+
+![](https://avatars1.githubusercontent.com/u/116996?v=4&s=250)
+
+### 橋立 友宏さん
+
+Repro株式会社 CTO
+
+---?image=assets/railsdm.jpg&size=cover
+
+![](https://avatars3.githubusercontent.com/u/6875?v=4&s=250)
+
+### 高橋 健一さん
+
+GMOペパボ株式会社 EC事業部<br>チーフテクニカルリード
+
+---?image=assets/railsdm.jpg&size=cover
+
+![](https://avatars2.githubusercontent.com/u/536118?v=4&s=250)
+
+### 越川 直人さん
+
+esa LLC エンジニア
+
+---?image=assets/railsdm.jpg&size=cover
+
+![](https://avatars3.githubusercontent.com/u/1148320?v=4&s=250)
+
+### 伊藤 淳一さん
+
+株式会社ソニックガーデン<br>プログラマ
+
+---?image=assets/railsdm.jpg&size=cover
+
+![](https://avatars1.githubusercontent.com/u/12104?v=4&s=250)
+
+### 増井 雄一郎さん
+
+株式会社トレタ CTO
+
+---?image=assets/railsdm.jpg&size=cover
+
+![](https://avatars2.githubusercontent.com/u/101800?v=4&s=250)
+
+### 藤 吾郎 さん
+
+株式会社ビットジャーニー<br>エンジニア
+
+---?image=assets/railsdm.jpg&size=cover
+
+![](https://avatars1.githubusercontent.com/u/3138447?v=4&s=250)
+
+### 国分 崇志さん
+
+トレジャーデータ株式会社<br>
+ソフトウェアエンジニア
+
+---?image=assets/railsdm.jpg&size=cover
+
+## 2017.10.02 12:00
+## 募集開始
 
 ---?image=assets/railsdm.jpg&size=cover
 
