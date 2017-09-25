@@ -230,7 +230,7 @@
 
 ---?image=assets/white.jpg&size=cover
 
-![](https://www.mwed.jp/g/i/lgbt/pc/logo_mwed.png?20151013)
+![](https://user-images.githubusercontent.com/15371677/30788840-01687b4a-a1dc-11e7-8f14-f16b03c8e990.png)
 
 ---?image=assets/railsdm.jpg&size=cover
 
