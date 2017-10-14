@@ -1,8 +1,8 @@
 ---?image=assets/railsdm.jpg&size=cover
 
-# <span class="brand">Rails Developers Meetup #5</span>
+# <span class="brand">Rails Developers Meetup #6</span>
 
-### 2017.09.28 @ FiNC
+### 2017.10.19 @ みんなのウェディング
 
 | | |
 |--:|:--|
@@ -58,9 +58,9 @@
 
 ---?image=assets/sky.jpg&size=cover
 
-## Tokyo: FiNC inc.
+## Tokyo: みんなのウェディング
 
-![](https://user-images.githubusercontent.com/15371677/30786132-434bf0c6-a1ac-11e7-8db2-31cb786208e8.png)
+![](https://user-images.githubusercontent.com/15371677/31574247-70b88b46-b106-11e7-868f-aad762fb91d6.png)
 
 ---?image=assets/sky.jpg&size=cover
 
@@ -76,25 +76,20 @@
 
 **KEYNOTE 01**: 19:35 〜 20:05
 
-## Railsで日報共有
-## アプリケーションを
-## OSSとして開発している話
+## Railsエンジニアの交換型
+## インターンシップについて
 
-株式会社万葉
+合同会社フィヨルド
 
-### 銭神 裕宜さん
+### 駒形 真幸さん
 
 ---?image=assets/railsdm.jpg&size=cover
 
 **KEYNOTE 02**: 20:05 〜 20:35
 
-## パフォーマンス計測
-## CIサービスを
-## 作って得た知見
+## Railsコントリビューション
 
-株式会社ベーシック
-
-### 桜庭 洋之さん
+### y-yagiさん
 
 ---?image=assets/sky.jpg&size=cover
 
@@ -106,42 +101,46 @@
 
 **KEYNOTE 03**: 20:45 〜 21:15
 
-## マイクロサービスにおける
-## 非同期アーキテクチャ
+## Railsでつくる
+## ファイルアップロード 2017
 
-株式会社FiNC
+株式会社みんなのウェディング
 
-### 太田 佳敬 さん
+### 松久 浩伸さん
 
 ---?image=assets/railsdm.jpg&size=cover
 
 **LT 01**: 21:15 〜 21:25
 
-## 5000兆人欲しい！
-## 優秀なRailsエンジニアを
-## 採用するための
-## 3つ(仮)の方法
+## How, Why, What が
+## わからないコードの調べ方
 
-株式会社FiNC
+株式会社クラウドワークス
 
-### 森 久太郎さん
+### 安田 篤史さん
 
 ---?image=assets/railsdm.jpg&size=cover
 
 **LT 02**: 21:25 〜 21:35
 
-## Railsを6年間やってきたぼくが
-## 最近Railsでハマったこと
+## How to improve OSS
+## Rails application
 
-株式会社カカクコム
+株式会社アイリッジ
 
-### 鈴木 和真さん
+### 野口 卓也さん
 
 ---?image=assets/next.jpg&size=cover
 
 **クロージング**: 21:35 〜 21:40
 
 # 次回予告
+
+---?image=assets/railsdm.jpg&size=cover
+
+### アンケートにご協力ください
+
+## https://goo.gl/MFMAUe
 
 ---?image=assets/twitter.jpg&size=cover
 
@@ -159,7 +158,7 @@
 
 ### アンケート回答お願いします
 
-## https://goo.gl/UL2sTB
+## https://goo.gl/MFMAUe
 
 ---?image=assets/next.jpg&size=cover
 
@@ -167,9 +166,13 @@
 
 ---?image=assets/railsdm.jpg&size=cover
 
-# <span class="brand">Rails Developers Meetup #6</span>
+# <span class="brand">Rails Developers Meetup #7</span>
 
-### 2017.10.19
+### 2017.11.16
+
+---?image=assets/railsdm.jpg&size=cover
+
+# 月1開催では最終回
 
 ---?image=assets/railsdm.jpg&size=cover
 
@@ -177,16 +180,15 @@
 
 ---?image=assets/railsdm.jpg&size=cover
 
-## Railsエンジニアの交換型
-## インターンシップについて
+## STEERSを支える技術（仮）
 
 ---?image=assets/railsdm.jpg&size=cover
 
-![](https://avatars2.githubusercontent.com/u/16577?v=4&s=250)
+![](https://avatars2.githubusercontent.com/u/23812?v=4&s=250)
 
-### 駒形 真幸 さん
+### 赤松 祐希さん
 
-- 合同会社フィヨルド エンジニア
+- 株式会社spice life CTO 開発部長
 
 ---?image=assets/railsdm.jpg&size=cover
 
@@ -194,17 +196,17 @@
 
 ---?image=assets/railsdm.jpg&size=cover
 
-## Railsコントリビューション
+## クックパッドでの
+## Webアプリケーション開発 2017
 
 ---?image=assets/railsdm.jpg&size=cover
 
-![](https://avatars1.githubusercontent.com/u/987638?v=4&s=250)
+![](https://avatars3.githubusercontent.com/u/69755?v=4&s=250)
 
-### y-yagiさん
+### 鈴木 康平さん
 
-- Ginza.rbの主催の一人
-- 『なるようになるブログ』のなかの人
-- Rails Contributors #26
+- クックパッド株式会社
+- 技術部 開発基盤グループ
 
 ---?image=assets/railsdm.jpg&size=cover
 
@@ -212,17 +214,17 @@
 
 ---?image=assets/railsdm.jpg&size=cover
 
-## Railsでつくる
-## ファイルアップロード 2017
+## ハコニワの話（仮）
 
 ---?image=assets/railsdm.jpg&size=cover
 
-![](https://avatars2.githubusercontent.com/u/787669?v=4&s=250)
+![](https://avatars1.githubusercontent.com/u/91011?v=4&s=250)
 
-### 松久 浩伸さん
+### 近藤 宇智朗さん
 
-- 株式会社みんなのウェディング
-- ウェブエンジニア
+- GMOペパボ株式会社
+- 技術基盤チーム プリンシパル
+- 福岡からの中継
 
 ---?image=assets/railsdm.jpg&size=cover
 
@@ -230,7 +232,7 @@
 
 ---?image=assets/white.jpg&size=cover
 
-![](https://user-images.githubusercontent.com/15371677/30788840-01687b4a-a1dc-11e7-8f14-f16b03c8e990.png)
+![](https://user-images.githubusercontent.com/15371677/31574127-f64d8840-b103-11e7-9a28-c4fb993b2989.png)
 
 ---?image=assets/railsdm.jpg&size=cover
 
@@ -238,116 +240,13 @@
 
 ---?image=assets/railsdm.jpg&size=cover
 
-## 2017.10.02 10:00
-
----?image=assets/next.jpg&size=cover
-
-## もう1点
+## 2017.10.30 10:00
 
 ---?image=assets/railsdm.jpg&size=cover
 
-# <span class="brand">Rails Developers Meetup 2017</span>
+### アンケート回答お願いします
 
-### 2017.12.09
-
----?image=assets/railsdm.jpg&size=cover
-
-# 2017年最後の
-# 超拡大版
-
----?image=assets/railsdm.jpg&size=cover
-
-# 13:00-18:10
-# 土曜日開催
-
----?image=assets/railsdm.jpg&size=cover
-
-## Guest Talk (25min) * 8本
-## Lightning Talk (5min) * 12本
-
----?image=assets/railsdm.jpg&size=cover
-
-# 会場
-
----?image=assets/railsdm.jpg&size=cover
-
-## TECH PLAY SHIBUYA
-# 定員170名 (無料)
-
----?image=assets/railsdm.jpg&size=cover
-
-# ゲスト登壇者
-# 8名紹介
-
----?image=assets/railsdm.jpg&size=cover
-
-![](https://avatars0.githubusercontent.com/u/82371?v=4&s=250)
-
-### 前島 真一さん
-
-フリーランス Rails技術顧問
-
----?image=assets/railsdm.jpg&size=cover
-
-![](https://avatars1.githubusercontent.com/u/116996?v=4&s=250)
-
-### 橋立 友宏さん
-
-Repro株式会社 CTO
-
----?image=assets/railsdm.jpg&size=cover
-
-![](https://avatars3.githubusercontent.com/u/6875?v=4&s=250)
-
-### 高橋 健一さん
-
-GMOペパボ株式会社 EC事業部<br>チーフテクニカルリード
-
----?image=assets/railsdm.jpg&size=cover
-
-![](https://avatars2.githubusercontent.com/u/536118?v=4&s=250)
-
-### 越川 直人さん
-
-esa LLC エンジニア
-
----?image=assets/railsdm.jpg&size=cover
-
-![](https://avatars3.githubusercontent.com/u/1148320?v=4&s=250)
-
-### 伊藤 淳一さん
-
-株式会社ソニックガーデン<br>プログラマ
-
----?image=assets/railsdm.jpg&size=cover
-
-![](https://avatars1.githubusercontent.com/u/12104?v=4&s=250)
-
-### 増井 雄一郎さん
-
-株式会社トレタ CTO
-
----?image=assets/railsdm.jpg&size=cover
-
-![](https://avatars2.githubusercontent.com/u/101800?v=4&s=250)
-
-### 藤 吾郎 さん
-
-株式会社ビットジャーニー<br>エンジニア
-
----?image=assets/railsdm.jpg&size=cover
-
-![](https://avatars1.githubusercontent.com/u/3138447?v=4&s=250)
-
-### 国分 崇志さん
-
-トレジャーデータ株式会社<br>
-ソフトウェアエンジニア
-
----?image=assets/railsdm.jpg&size=cover
-
-## 2017.10.02 12:00
-## 募集開始
+## https://goo.gl/MFMAUe
 
 ---?image=assets/railsdm.jpg&size=cover
 
