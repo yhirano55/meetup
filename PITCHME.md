@@ -180,7 +180,7 @@
 
 ---?image=assets/railsdm.jpg&size=cover
 
-## STEERSを支える技術（仮）
+## RailsでECサービスをゼロから作ってみて
 
 ---?image=assets/railsdm.jpg&size=cover
 
@@ -214,7 +214,8 @@
 
 ---?image=assets/railsdm.jpg&size=cover
 
-## ハコニワの話（仮）
+## コンテナは友だち！
+## in Rails Developers Meetup
 
 ---?image=assets/railsdm.jpg&size=cover
 
